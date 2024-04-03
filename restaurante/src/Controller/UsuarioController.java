@@ -15,5 +15,11 @@ import model.Usuario;
     			usuarios.add(usuarioNovo);
     			return "Usuario cadastrado com sucesso";
     		}
+
+
+		public Usuario login(String email, String senha) {
+			// TODO Auto-generated method stub
+			return null;
+		}
 		}
 		
